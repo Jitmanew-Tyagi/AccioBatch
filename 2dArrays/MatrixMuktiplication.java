@@ -20,7 +20,6 @@ public static void main(String[] args) throws Exception {
         return;
     }
     
-    
     int x = m1;
     
     int[][] ans = new int[n1][m2];

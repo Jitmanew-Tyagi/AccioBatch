@@ -1,8 +1,11 @@
+import java.util.*;
 public class BubbleSort {
     public static void main(String[] args) {
-        int[] arr = {1, 3, 2, 5, 4, 8, 7, 6, 10, 0};
-        display(arr);
-        sort(arr);
+        // int[] arr = {1, 3, 2, 5, 4, 8, 7, 6, 10, 0};
+        // sort(arr);
+        // display(arr);
+        int[] arr = {1, 3, 4, 7, 8, 3, 5, 6, 8, 9, 12};
+        Arrays.sort(arr);
         display(arr);
     }
 

@@ -1,3 +1,4 @@
+import java.util.*;
 public class Main {
     // public static Scanner scn = new Scanner(System.in);
     public static void main(String[] args) {
@@ -5,6 +6,7 @@ public class Main {
         // String s = new String("aniket");
         // System.out.println(s + " " + k);
         // System.out.println(s == k);
+        
         heyOptimized();
     }
     public static void hey() {
